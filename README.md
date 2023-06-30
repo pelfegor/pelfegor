@@ -48,11 +48,11 @@ Email: levon9393@bk.ru
 2. [Страница для дочки](exampleone.ga)
 
 # Сертификаты
-
-1. [Ручное тестирование веб-приложений](https://github.com/pelfegor/Certificates/blob/main/Testing/Manual%20testing%20of%20web%20applications.pdf)  **Нетология**
-2. [Java для тестировщиков](https://github.com/pelfegor/Certificates/blob/main/Testing/Java%20for%20testers.pdf)  **Нетология**
-3. [Автоматизированное тестирование](https://github.com/pelfegor/Certificates/blob/main/Testing/Automated%20testing.pdf) **Нетология**
-
+1. [Диплом о профессиональной переподготовке по "Тестировщик ПО"](https://github.com/pelfegor/Certificates/blob/main/Testing/Diplom_QA.pdf) **Нетология**
+2. [Ручное тестирование веб-приложений](https://github.com/pelfegor/Certificates/blob/main/Testing/Manual%20testing%20of%20web%20applications.pdf)  **Нетология**
+3. [Java для тестировщиков](https://github.com/pelfegor/Certificates/blob/main/Testing/Java%20for%20testers.pdf)  **Нетология**
+4. [Автоматизированное тестирование](https://github.com/pelfegor/Certificates/blob/main/Testing/Automated%20testing.pdf) **Нетология**
+5. [Postman для тестирования API](https://github.com/pelfegor/Certificates/blob/main/Testing/Api%20testing%20Postman.pdf) **Нетология**
 1. [Основы верстки сайта](https://github.com/pelfegor/Certificates/blob/main/HTML/Layout%20basics.pdf)  **Нетология**  
 2. [HTML-верстка: с нуля до первого макета](https://github.com/pelfegor/Certificates/blob/main/HTML/HTML%20layout.pdf)  **Нетология**  
 3. [Введение в SQL](https://github.com/pelfegor/Certificates/blob/main/Base/SQL.pdf)  **sololearn**
